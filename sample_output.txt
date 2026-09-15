@@ -1,0 +1,56 @@
+==============================================================
+AI LEARNING RESOURCE RECOMMENDER
+DecodeLabs - Artificial Intelligence Project 3
+==============================================================
+
+Enter your interests separated by commas
+(examples: python, machine learning, recommendation systems): 
+Preferred difficulty:
+  1. beginner
+  2. intermediate
+  3. advanced
+  0. No preference
+Choose: 
+Preferred format:
+  1. course
+  2. tutorial
+  3. project
+  4. article
+  5. book
+  0. No preference
+Choose: 
+Preferred learning style:
+  1. hands-on
+  2. balanced
+  3. theory
+  4. visual
+  0. No preference
+Choose: 
+==============================================================
+TOP RECOMMENDATIONS
+==============================================================
+
+1. Content-Based Filtering Project  |  Match: 70.0%
+   Difficulty: intermediate | Format: project | Style: hands-on
+   Topics: recommendation systems, python, cosine similarity
+   Why: Matched interests: recommendation systems, python; Preferred difficulty: intermediate; Preferred learning style: hands-on
+
+2. Collaborative Filtering Concepts  |  Match: 69.9%
+   Difficulty: intermediate | Format: article | Style: theory
+   Topics: recommendation systems, collaborative filtering, machine learning
+   Why: Matched interests: recommendation systems, machine learning; Preferred difficulty: intermediate; Preferred format: article
+
+3. Decision Trees from Scratch  |  Match: 69.9%
+   Difficulty: intermediate | Format: project | Style: hands-on
+   Topics: machine learning, decision trees, python
+   Why: Matched interests: machine learning, python; Preferred difficulty: intermediate; Preferred learning style: hands-on
+
+4. Natural Language Processing Essentials  |  Match: 66.7%
+   Difficulty: intermediate | Format: course | Style: balanced
+   Topics: nlp, machine learning, python
+   Why: Matched interests: machine learning, python; Preferred difficulty: intermediate
+
+5. Recommendation Systems Basics  |  Match: 62.7%
+   Difficulty: beginner | Format: article | Style: balanced
+   Topics: recommendation systems, machine learning, similarity
+   Why: Matched interests: recommendation systems, machine learning; Preferred format: article

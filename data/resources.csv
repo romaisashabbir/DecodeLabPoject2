@@ -1,0 +1,25 @@
+id,title,topics,difficulty,format,style,rating
+R001,Python Fundamentals,python;programming;beginner,beginner,course,hands-on,4.7
+R002,Python for Data Analysis,python;data science;pandas,intermediate,course,hands-on,4.8
+R003,Machine Learning Foundations,machine learning;python;supervised learning,beginner,course,balanced,4.9
+R004,Deep Learning with Neural Networks,deep learning;neural networks;python,advanced,course,hands-on,4.8
+R005,Natural Language Processing Essentials,nlp;machine learning;python,intermediate,course,balanced,4.7
+R006,Computer Vision Fundamentals,computer vision;deep learning;python,intermediate,course,hands-on,4.7
+R007,SQL for Data Science,sql;databases;data science,beginner,tutorial,hands-on,4.6
+R008,Data Visualization with Python,python;data visualization;matplotlib,beginner,tutorial,visual,4.6
+R009,Linear Algebra for AI,linear algebra;mathematics;ai,intermediate,book,theory,4.8
+R010,Probability and Statistics for ML,statistics;probability;machine learning,intermediate,book,theory,4.9
+R011,Recommendation Systems Basics,recommendation systems;machine learning;similarity,beginner,article,balanced,4.8
+R012,Content-Based Filtering Project,recommendation systems;python;cosine similarity,intermediate,project,hands-on,4.9
+R013,Collaborative Filtering Concepts,recommendation systems;collaborative filtering;machine learning,intermediate,article,theory,4.7
+R014,AI Ethics and Responsible AI,ai ethics;responsible ai;ai,beginner,article,theory,4.6
+R015,Git & GitHub for Developers,git;github;software engineering,beginner,tutorial,hands-on,4.7
+R016,Flask API Development,python;flask;backend,intermediate,project,hands-on,4.6
+R017,Streamlit for ML Apps,python;streamlit;machine learning,beginner,tutorial,hands-on,4.8
+R018,Decision Trees from Scratch,machine learning;decision trees;python,intermediate,project,hands-on,4.7
+R019,Graph Algorithms BFS & DFS,graphs;algorithms;python,intermediate,tutorial,hands-on,4.6
+R020,Database Design & Normalization,databases;sql;normalization,intermediate,course,balanced,4.7
+R021,Generative AI Foundations,generative ai;llm;ai,beginner,course,balanced,4.8
+R022,Prompt Engineering Essentials,prompt engineering;generative ai;llm,beginner,tutorial,hands-on,4.7
+R023,MLOps Fundamentals,mlops;machine learning;deployment,advanced,course,balanced,4.8
+R024,Model Evaluation & Metrics,machine learning;evaluation;statistics,intermediate,article,theory,4.9
